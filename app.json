@@ -1,0 +1,24 @@
+{
+  "id": "092a4721-59c2-4b94-a9e2-fb67420a855a",
+  "name": "RA2",
+  "publisher": "Awara IT",
+  "brief": "",
+  "description": "Bank Statement Import",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "runtime": "2.0",
+  "url": "http://awara-it.com",
+  "logo": "awaralogo.jpg",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50129
+  },
+  "showMyCode": true
+}
